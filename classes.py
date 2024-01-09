@@ -1,4 +1,4 @@
-"""Classes necessarias"""
+"""Classes"""
 
 from main import db
 
